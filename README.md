@@ -29,7 +29,7 @@
 | Markdown Preview  | 实时预览Markdown                                       |
 | stylelint         | CSS/SCSS/Less语法检查                                  |
 | Import Cost       | 引入包的体积大小计算显示                               |
-| Prettier          | 代码格式化                                             |
+| Prettier+         | 代码格式化                                             |
 | vetur             | Vue的Emmet/语法高亮/智能感知等                         |
 | VueHelper         | 代码片段                                               |
 | CSScomb           | CSS书写顺序规则                                        |
